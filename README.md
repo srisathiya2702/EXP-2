@@ -1,4 +1,3 @@
-
  # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
@@ -64,9 +63,7 @@ Tabulation for load test:
 
 Model graph:
 <img width="750" height="337" alt="Screenshot 2026-10-19 124322" src="https://github.com/user-attachments/assets/dd2798f0-7097-4980-89d4-31be077ffac1" />
-
 Calculation:
 <img width="388" height="366" alt="Screenshot 2026-10-19 124243" src="https://github.com/user-attachments/assets/96a588d4-0def-467c-a7f4-99a765fa3834" />
- 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
